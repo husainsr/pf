@@ -1,0 +1,29 @@
+{
+  "name": "Raj Barcode System",
+  "short_name": "RajBarcode",
+  "theme_color": "#1976d2",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/pwat/",
+  "start_url": "/pwat/",
+  "icons": [
+    {
+      "src": "assets/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "assets/desktop.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "assets/mobile.png",
+      "sizes": "390x844",
+      "type": "image/png"
+    }
+  ]
+}
